@@ -7,7 +7,7 @@ print(age1 + age2)
 
 number = "5"
 print(int(number) * 5  )
-#name_surname sance case 
+
 name = "GOA"
 print(name * 1000)
 
