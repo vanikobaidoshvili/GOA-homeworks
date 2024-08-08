@@ -1,5 +1,5 @@
 #2)------------------------------------------------------
-agly = False
+ugly = False
 beutiful = True
 print(agly or beutiful)
 ok = True
@@ -12,7 +12,7 @@ bad = False
 good = True
 print(bad and good)
 chad = True
-proggraming = True
+programming = True
 print(chad and proggraming)
 short = False
 tall = False

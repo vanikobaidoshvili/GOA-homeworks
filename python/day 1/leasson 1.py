@@ -12,6 +12,8 @@ left(90)
 forward(200)
 left(90)
 end_fill()
+ # end of square
+
 # door makeing
 
 forward(70)
