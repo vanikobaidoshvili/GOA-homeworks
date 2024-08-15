@@ -1,4 +1,4 @@
-for i in range(1):
+for n in range(1000000):
     print("goa is the best") 
 #--------------------------------------
 for i in range(1, 50, 2):
