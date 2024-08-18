@@ -14,8 +14,8 @@ while hp > 0:
     hp = hp - 1
 #5)-----------------------------------
 
-password = "SecretWord"
-
+password = "javascript"
+guess = input("enter your password...")
 while password != guess:
-    guess = input("enter your password")
-print("access granted")
+    guess = input("enter your password...")
+print("you are logged in to facebook")
